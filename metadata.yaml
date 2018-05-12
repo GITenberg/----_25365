@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2476
     wikipedia: http://en.wikipedia.org/wiki/Yan_Zhitui
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25365#----
 gutenberg_issued: '2008-05-07'
 gutenberg_type: Text
 identifiers:
