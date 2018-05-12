@@ -1,0 +1,30 @@
+_repo: '----_25365'
+_version: 0.1.0
+alternative_title: Yan Shi Jia Xun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yan, Zhitui
+    alias: 顏之推
+    birthdate: 531
+    deathdate: 591
+    gutenberg_agent_id: '2476'
+    url: http://www.gutenberg.org/2009/agents/2476
+    wikipedia: http://en.wikipedia.org/wiki/Yan_Zhitui
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25365'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics -- China'
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: 顔氏家訓
+url: http://www.gutenberg.org/ebooks/25365
